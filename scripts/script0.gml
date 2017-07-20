@@ -1,0 +1,1 @@
+/* First script to test Git SCM */
